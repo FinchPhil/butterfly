@@ -1,5 +1,5 @@
-*.uasset filter=lfs diff=lfs merge=lfs -text
-*.umap filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.obj filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text binary
+*.umap filter=lfs diff=lfs merge=lfs -text binary
+*.psd filter=lfs diff=lfs merge=lfs -text binary
+*.obj filter=lfs diff=lfs merge=lfs -text binary
+*.fbx filter=lfs diff=lfs merge=lfs -text binary
