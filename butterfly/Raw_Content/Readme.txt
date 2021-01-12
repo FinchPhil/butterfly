@@ -1,0 +1,1 @@
+Pour l'importation des maps, textures et autre contenu pas 3d.
