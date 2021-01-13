@@ -5,8 +5,6 @@ Classe de Dominique Gervais
 ## Spec
 Unreal V4.26.0
 
-Après avoir cloné le repository, ouvrir un common line dans le dossierr du working copy et executer: 
+Pour les références visuelles, utiliser le lien ci-dessous:
 
-```git lfs install```
-
-https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/configuring-git-large-file-storage
+https://drive.google.com/drive/folders/1zSjQqItMsaemfyo5pHG01kd-r-_u-gM0
