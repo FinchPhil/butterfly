@@ -6782,6 +6782,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.17-18.11.19:206][549]LogContentValidation: Display: Validating AnimBlueprint /Game/Character/Scientifique/Animation/Scientifique_AnimBP.Scientifique_AnimBP
 [2021.02.17-18.11.19:206][549]LogContentValidation: Display: Validating AnimSequence /Game/Character/Scientifique/Animation/Scientifist_Thinking.Scientifist_Thinking
 [2021.02.17-18.11.19:206][549]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+<<<<<<< Updated upstream
 [2021.02.17-18.12.58:723][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
 [2021.02.17-18.12.58:735][152]LogSlate: Window 'butterfly - Unreal Editor' being destroyed
 [2021.02.17-18.12.58:736][152]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
@@ -7341,3 +7342,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.17-18.13.01:962][153]LogD3D11RHI: CleanupD3DDevice
 [2021.02.17-18.13.02:135][153]LogExit: Exiting.
 [2021.02.17-18.13.02:178][153]Log file closed, 02/17/21 13:13:02
+=======
+>>>>>>> Stashed changes
